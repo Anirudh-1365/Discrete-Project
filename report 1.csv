@@ -1,0 +1,9 @@
+group_dept,group_role,group_clearance,user_id,user_name
+engineering,developer,high,1,Alice Smith
+engineering,developer,high,2,Bob Jones
+engineering,developer,high,7,Grace Y
+engineering,tester,medium,3,Charlie Ray
+hr,manager,high,4,Diana King
+hr,manager,high,5,Eve Stone
+finance,analyst,low,6,Frank Liu
+finance,analyst,low,8,Hector Z
